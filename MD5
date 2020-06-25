@@ -1,0 +1,15 @@
+bd236f01d6e4b9040c8eddadd21d99bc *DESCRIPTION
+04eda5d5896cfcf9845d5e190af140eb *LICENSE
+df390c53434517b304ac5db487184641 *NAMESPACE
+120dd8c994abdc1b2c9cd185279bd300 *R/nightly.R
+26ac1138c0c707add477e12216b7dbcb *R/use_nightly.R
+10d15b78de49f1a76b7b19dd8a2fda27 *README.md
+502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
+e2d4ea92bc76bd5496bdec0eb4c59bae *man/figures/Rnightlyexample1.gif
+44d3fc121d2241db16b28c76e9e724e9 *man/figures/Rnightlyexample2.gif
+e7b6cef0661b83c1bc0f6731d6f02911 *man/figures/Rnightlyexample3.gif
+f89892de38f8ccf3f4c7e691e25bd418 *man/figures/Rnightlyexample4.gif
+8d3c3d8c3e1610668f1f0665e86937cc *man/figures/Rnightlyexample5.gif
+b44ff81a739a47cc00ede27fa9b643b2 *man/figures/Rnightlyexample6.gif
+f5a19f0693e2270eec27cd773b0aff0c *man/nightly.Rd
+14186e7a5b741ea741a466c89c501346 *man/use_nightly.Rd
